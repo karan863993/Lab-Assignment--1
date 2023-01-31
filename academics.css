@@ -1,0 +1,19 @@
+#header a{
+    color: #ff0000;
+}
+
+body {
+    background-color: #fdfdbb;
+  }
+
+#tbcol th{
+    background-color: #259e3f;
+}
+  
+
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
