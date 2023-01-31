@@ -6,10 +6,6 @@ body {
     background-color: #fdfdbb;
   }
 
-span{
-    color: blue;
-}
-
 #footer{
     position: absolute;
     bottom: 0;
